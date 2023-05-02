@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "ruchika",
+      "lastName": "das",
+      "email": "ruchika@gmail.com",
+      "dob": "2000-08-21T18:15:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "",
+      "experience": 4,
+      "package": 12,
+      "id": 1
+    },
+    {
+      "firstName": "test",
+      "lastName": "user",
+      "email": "test@gmail.com",
+      "dob": "2022-12-31T18:15:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "fake",
+      "experience": 4,
+      "package": 12,
+      "id": 2
+    },
+    {
+      "firstName": "tripti",
+      "lastName": "das",
+      "email": "ruchika@gmail.com",
+      "dob": "2023-05-03T18:15:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Goggle",
+      "experience": 5,
+      "package": 5,
+      "id": 3
+    },
+    {
+      "firstName": "kamini",
+      "lastName": "das",
+      "email": "kamini@gmail.com",
+      "dob": "2023-05-05T18:15:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Fake",
+      "experience": 5,
+      "package": 12,
+      "id": 4
+    },
+    {
+      "firstName": "misha",
+      "lastName": "das",
+      "email": "das@gmail.com",
+      "dob": "2023-05-01T18:15:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "goggle",
+      "experience": 5,
+      "package": 3,
+      "id": 5
+    },
+    {
+      "firstName": "smrity",
+      "lastName": "guragain",
+      "email": "smrity@gmail.com",
+      "dob": "2023-05-10T18:15:00.000Z",
+      "gender": "others",
+      "education": "Diploma",
+      "company": "Fake",
+      "experience": 6,
+      "package": 5,
+      "id": 6
+    }
+  ]
+}
